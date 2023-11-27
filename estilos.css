@@ -1,0 +1,94 @@
+body{
+
+    background-color: rgb(153, 201, 228);
+    margin: 0px
+    
+}
+
+header{
+    color: white;
+    background-color: rgb(75, 150, 7);
+    text-align: center;
+    height: 100px;
+    padding-top: 25px;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+h2{
+    color: rgb(75, 150, 7);
+    height: 40px;
+    padding-top: 13px;
+    text-align: center;
+    background-color: rgb(247, 233, 17);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div{
+
+    text-align: center;
+    
+}
+
+
+article{
+
+    color: white;
+    background-color: rgb(236, 134, 174);
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+footer{
+ 
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: medium;    
+}
+
+
+.centrada{
+display: block;
+margin-left: auto;
+margin-right: auto
+
+}
+
+
+li{
+    display: inline-block;
+    font-size: larger;
+}
+
+nav a{
+   
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(247, 233, 17);
+    background-color: rgb(75, 150, 7);
+    padding: 0 100px;
+    
+}
+
+nav a:hover{
+
+
+    text-decoration: none;
+    color: rgb(75, 150, 7);
+    background-color: rgb(247, 233, 17);
+    padding: 0 100px;
+    
+}
+
+
+html{
+
+    scroll-behavior: smooth;
+}
+
+p{
+
+    padding: 5px;
+}
